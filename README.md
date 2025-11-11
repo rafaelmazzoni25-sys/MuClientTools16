@@ -1,4 +1,4 @@
-# MuClientTools16 by VD (Vic)
+# MuClientTools16 by VD (Vic)2
 Mu Client Tools (Season 16 part 1.1)  
 This project is using test files obtained from client Lgd_Test (1.19.46)
 Server files & sources released by MuLegend can be found here:  
